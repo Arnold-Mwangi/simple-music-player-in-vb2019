@@ -1,0 +1,19 @@
+C:\Users\Admin\source\repos\kirigwi player\bin\Debug\kirigwi player.exe.config
+C:\Users\Admin\source\repos\kirigwi player\bin\Debug\kirigwi player.exe
+C:\Users\Admin\source\repos\kirigwi player\bin\Debug\kirigwi player.pdb
+C:\Users\Admin\source\repos\kirigwi player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\kirigwi player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\kirigwi player\obj\Debug\kirigwi player.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\kirigwi player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\kirigwi player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\kirigwi player\obj\Debug\kirigwi player.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\kirigwi player\obj\Debug\kirigwi_player.MusicPlayerApp.resources
+C:\Users\Admin\source\repos\kirigwi player\obj\Debug\kirigwi_player.Properties.Resources.resources
+C:\Users\Admin\source\repos\kirigwi player\obj\Debug\kirigwi player.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\kirigwi player\obj\Debug\kirigwi player.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\kirigwi player\obj\Debug\kirigwi player.exe
+C:\Users\Admin\source\repos\kirigwi player\obj\Debug\kirigwi player.pdb
+C:\Users\Admin\source\repos\kirigwi player\bin\Debug\kirigwi player.exe.manifest
+C:\Users\Admin\source\repos\kirigwi player\bin\Debug\kirigwi player.application
+C:\Users\Admin\source\repos\kirigwi player\obj\Debug\kirigwi player.exe.manifest
+C:\Users\Admin\source\repos\kirigwi player\obj\Debug\kirigwi player.application
